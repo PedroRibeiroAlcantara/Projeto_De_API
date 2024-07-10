@@ -1,0 +1,52 @@
+{
+  "operating_systems": [
+    {
+      "id": 1,
+      "name": "Windows 10",
+      "developer": "Microsoft",
+      "initial_release": "2015-07-29",
+      "latest_version": "21H2",
+      "license_type": "Proprietária"
+    },
+    {
+      "id": 2,
+      "name": "macOS Big Sur",
+      "developer": "Apple",
+      "initial_release": "2020-11-12",
+      "latest_version": "11.6",
+      "license_type": "Proprietária"
+    },
+    {
+      "id": 3,
+      "name": "Ubuntu",
+      "developer": "Canonical",
+      "initial_release": "2004-10-20",
+      "latest_version": "22.04 LTS",
+      "license_type": "GNU GPL"
+    },
+    {
+      "id": 4,
+      "name": "Fedora",
+      "developer": "Red Hat",
+      "initial_release": "2003-11-06",
+      "latest_version": "35",
+      "license_type": "GNU GPL"
+    },
+    {
+      "id": 5,
+      "name": "Debian",
+      "developer": "Debian Project",
+      "initial_release": "1993-08-16",
+      "latest_version": "11 (Bullseye)",
+      "license_type": "GNU GPL"
+    },
+    {
+      "id": 6,
+      "name": "Kali Linux",
+      "developer": "Offensive Security",
+      "initial_release": "2013-03-13",
+      "latest_version": "2023.2",
+      "license_type": "GNU GPL"
+    }
+  ]
+}
